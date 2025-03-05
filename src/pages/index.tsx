@@ -350,7 +350,7 @@ const Home: NextPage = () => {
             <div className="pwa_icon">
               🔒 Install <b>PWA</b> <em className="text-muted">or</em> Download{" "}
               <a
-                href="https://github.com/kiomarzsss/kscanner/releases/latest"
+                href="https://github.com/ircfspace/scan/releases/latest"
                 target="_blank"
               >
                 APK
@@ -358,7 +358,7 @@ const Home: NextPage = () => {
             </div>
           </div>
           <div className="clearfix"></div>©{" "}
-          <a href="https://github.com/kiomarzsss/kscanner" target="_blank">
+          <a href="https://github.com/ircfspace/scan" target="_blank">
             Kiomarzsss
           </a>
           , <a href="https://ircf.space" target="_blank">
@@ -366,7 +366,7 @@ const Home: NextPage = () => {
           </a>, VahidFarid, goldSrc
           <br />
             <span dir="ltr" className={"starBtn"}>
-                <GitHubButton href="https://github.com/kiomarzsss/kscanner" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star kiomarzsss/kscanner on GitHub">Star</GitHubButton>
+                <GitHubButton href="https://github.com/ircfspace/scan" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star ircfspace/scan on GitHub">Star</GitHubButton>
             </span>
           <br />
             <div className="text-center">
