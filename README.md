@@ -1,4 +1,4 @@
-# kScanner
+# Scanner
 ## Cloudflare Clean IP Scanner with SNI & Port
 
 ![screenshot.png](screenshot.png)
