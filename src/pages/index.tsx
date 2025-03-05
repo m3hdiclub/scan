@@ -346,7 +346,7 @@ const Home: NextPage = () => {
         </section>
         <div className="clearfix"></div>
         <footer className="text-center">
-          <div className="pwa">
+          <div className="pwa hidden">
             <div className="pwa_icon">
               🔒 Install <b>PWA</b> <em className="text-muted">or</em> Download{" "}
               <a
