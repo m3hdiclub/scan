@@ -358,7 +358,7 @@ const Home: NextPage = () => {
             </div>
           </div>
           <div className="clearfix"></div>©{" "}
-          <a href="https://github.com/ircfspace/scan" target="_blank">
+          <a href="https://github.com/kiomarzsss" target="_blank">
             Kiomarzsss
           </a>
           , <a href="https://ircf.space" target="_blank">
