@@ -16,6 +16,7 @@ const nextConfig = {
     unoptimized: true,
   },  
   reactStrictMode: true,
+  basePath: "/kscanner",
 };
 
 export default withSerwist({
